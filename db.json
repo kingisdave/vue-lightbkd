@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "text": "Presidents Appointment",
+      "day": "March 1st at 2:30pm",
+      "reminder": false
+    },
+    {
+      "id": "2",
+      "text": "Senators Meeting",
+      "day": "March 3rd at 12:30pm",
+      "reminder": true
+    }
+  ]
+}
